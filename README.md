@@ -51,3 +51,7 @@ Exercise 6.7: Creating Data Dashboards
 - Publish your storyboard to Tableau Public.
 - Create a portfolio-ready GitHub repository for your project per the requirements above in
 the project brief.
+
+Links: 
+Tableau-https://public.tableau.com/app/profile/riley1462/viz/6_7AirlineDelayProject/Story1?publish=yes
+Data-https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay
